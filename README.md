@@ -1,3 +1,7 @@
+# contains javascript version compiled with 
+in jsbin
+```emcc  -o logcluster.js aggregate_supports_heuristic.c clusters.c cluster_candidates.c free_resource.c frequent_words.c hash_table_processing.c join_clusters_heuristic.c line_processing.c main.c outliers.c  output.c preparation.c utility.c word_filter_search_replace.c```
+
 # C-based Implementation of LogCluster Algorithm
 
 Compiling Environment: Linux
